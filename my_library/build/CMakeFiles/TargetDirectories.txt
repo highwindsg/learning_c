@@ -1,0 +1,4 @@
+/home/cay1sgp/Documents/learning_c/my_library/build/CMakeFiles/rebuild_cache.dir
+/home/cay1sgp/Documents/learning_c/my_library/build/CMakeFiles/edit_cache.dir
+/home/cay1sgp/Documents/learning_c/my_library/build/CMakeFiles/main.dir
+/home/cay1sgp/Documents/learning_c/my_library/build/CMakeFiles/tools.dir

@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/cay1sgp/Documents/learning_c/my_library/build",
+  "command": "/usr/bin/c++   -I/home/cay1sgp/Documents/learning_c/my_library/.    -o CMakeFiles/main.dir/main.cpp.o -c /home/cay1sgp/Documents/learning_c/my_library/main.cpp",
+  "file": "/home/cay1sgp/Documents/learning_c/my_library/main.cpp"
+},
+{
+  "directory": "/home/cay1sgp/Documents/learning_c/my_library/build",
+  "command": "/usr/bin/c++   -I/home/cay1sgp/Documents/learning_c/my_library/.    -o CMakeFiles/tools.dir/tools.cpp.o -c /home/cay1sgp/Documents/learning_c/my_library/tools.cpp",
+  "file": "/home/cay1sgp/Documents/learning_c/my_library/tools.cpp"
+}
+]

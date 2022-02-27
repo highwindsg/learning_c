@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/cay1sgp/Documents/learning_c/my_library/main.cpp
+tools.hpp
+/home/cay1sgp/Documents/learning_c/my_library/tools.hpp
+
+/home/cay1sgp/Documents/learning_c/my_library/tools.hpp
+
