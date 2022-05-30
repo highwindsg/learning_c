@@ -1,0 +1,18 @@
+Boolean AND / && :
+Mr ANDerson is a very untrusting person, who believes that if one side is false, 
+then result will definitely be false. Unless both are true.
+
+true && true is true
+true && false is false
+false && true is false
+false && false is false
+
+Boolean OR / || :
+Mr ORlando is a very trusting person, who believes that is either one side is true, 
+then result will definitely be true. Unless both are false.
+
+true || true is true
+true || false is true
+false || true is true
+false || false is false
+
