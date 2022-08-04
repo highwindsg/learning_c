@@ -25,7 +25,7 @@ int main()
     } else if(op == '/'){
         result = num1 / num2;
     } else {
-        cout << "Invald Operator";
+        cout << "Invalid Operator";
     }
     cout << result << endl;
 
