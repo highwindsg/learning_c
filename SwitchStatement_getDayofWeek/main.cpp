@@ -4,7 +4,7 @@ using namespace std;
 string getDayofWeek(int dayNum){ // Create string func named getDayofWeek with one param of dayNum of type Integer.
     string dayName; // Create a string var of dayName.
 
-    switch(dayNum){ // Create a switch case with dayNum as param since we are using a the number to point to a day.
+    switch(dayNum){ // Create a switch case with dayNum as param since we are using the number to point to a day.
     case 0:
         dayName = "Sunday";
         break; // So if the number entered matches, then C++ will stop the sequential reading of the other lines.
